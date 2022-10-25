@@ -110,51 +110,51 @@ body { font-family: "Titillium", Arial, sans-serif; }
 
 @font-face {
 	font-family: 'Titillium';
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.eot');
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.svg#titillium-light-webfont') format('svg'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.eot#iefix') format('embedded-opentype'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.woff') format('woff'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.ttf') format('truetype');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.eot');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.svg#titillium-light-webfont') format('svg'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.woff') format('woff'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-light-webfont.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.eot');
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.svg#titillium-lightitalic-webfont') format('svg'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.eot#iefix') format('embedded-opentype'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.woff') format('woff'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.ttf') format('truetype');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.eot');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.svg#titillium-lightitalic-webfont') format('svg'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.woff') format('woff'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-lightitalic-webfont.ttf') format('truetype');
 	font-weight: 300;
 	font-style: italic;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.eot');
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.svg#titillium-regular-webfont') format('svg'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.eot#iefix') format('embedded-opentype'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.woff') format('woff'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.ttf') format('truetype');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.eot');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.svg#titillium-regular-webfont') format('svg'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.woff') format('woff'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regular-webfont.ttf') format('truetype');
 	font-weight: 400;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Titillium';
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.eot');
-	src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.svg#titillium-regular-webfont') format('svg'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.eot#iefix') format('embedded-opentype'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.woff') format('woff'),
-		 url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.ttf') format('truetype');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.eot');
+	src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.svg#titillium-regular-webfont') format('svg'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.eot#iefix') format('embedded-opentype'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.woff') format('woff'),
+		 url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-regularitalic-webfont.ttf') format('truetype');
 	font-weight: 400;
 	font-style: italic;
 }
 @font-face {
     font-family: 'Titillium';
-    src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.eot');
-    src: url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.svg#titillium-semibold-webfont') format('svg'),
-         url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.woff') format('woff'),
-         url('https://kousaraslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.ttf') format('truetype');
+    src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.eot');
+    src: url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.svg#titillium-semibold-webfont') format('svg'),
+         url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.eot#iefix') format('embedded-opentype'),
+         url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.woff') format('woff'),
+         url('https://kousar-aslam.github.io/wp-content/themes/slanted/fonts/titillium-semibold-webfont.ttf') format('truetype');
 	font-weight: 600;
 	font-style: normal;
 }
@@ -248,7 +248,7 @@ input, textarea, button, select, label { font-family: inherit; }
 .entry blockquote:before { content: "\f10d"; color: #ccc; font-size: 32px; font-style: normal; font-family: "Font Awesome 5 Free"; font-weight: 900; text-align: center; position: absolute; left: 0; top: 0; }
 .entry blockquote.twitter-tweet:before { content: "\f099"; }
 .entry code, .entry pre { font-family: Monaco, "Courier New", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", monospace; font-size: 11px; }
-.entry pre { background: url(https://kousaraslam.github.io/wp-content/themes/slanted/img/pre.png) repeat top; padding: 18px 20px; margin: 30px 0; border: 1px solid #ddd; line-height: 19px; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto; overflow-y: hidden; }
+.entry pre { background: url(https://kousar-aslam.github.io/wp-content/themes/slanted/img/pre.png) repeat top; padding: 18px 20px; margin: 30px 0; border: 1px solid #ddd; line-height: 19px; white-space: pre-wrap; word-wrap: break-word; overflow-x: auto; overflow-y: hidden; }
 .entry code { background: #ddd; padding: 0 3px; }
 .entry ins { background: #fff486; }
 .entry sub,

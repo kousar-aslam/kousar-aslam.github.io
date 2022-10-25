@@ -8,19 +8,19 @@
 <channel>
 	<title>
 	Comments for Dr. Kousar Aslam	</title>
-	<atom:link href="https://kousaraslam.github.io/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://kousaraslam.github.io</link>
+	<atom:link href="https://kousar-aslam.github.io/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kousar-aslam.github.io</link>
 	<description></description>
 	<lastBuildDate>Wed, 02 Jun 2021 14:59:21 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>https://kousaraslam.github.io/2021/06/02/hello-world/#comment-1</link>
+		<link>https://kousar-aslam.github.io/2021/06/02/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Wed, 02 Jun 2021 14:59:21 +0000</pubDate>
